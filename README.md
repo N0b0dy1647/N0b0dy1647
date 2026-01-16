@@ -1,4 +1,4 @@
-### Hello there! General Kenobi? No, it's Ahmad. 👋
+## Hello there! General Kenobi? No, it's Ahmad. 👋
 
 ```javascript
 const Ahmad = {
