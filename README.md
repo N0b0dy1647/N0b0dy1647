@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello there! General Kenobi? No, it's Ahmad. 👋
 
-<!--
-**N0b0dy1647/N0b0dy1647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const Ahmad = {
+  degree_completed: "B.Sc. Computer Science @ FAU (Padawan no more) 🎓",
+  current_studies: "M.Sc. Computer Science @ FAU",
 
-Here are some ideas to get you started:
+  focus: ["Security 🛡️", "Forensics 🔎", "Crypto 🔑"],
+  fuel: "Coffee ☕",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  // 💻 System Status
+  access_level: "UNLIMITED POWER!! ⚡",
+  allegiance: "The White Hat Order 😇"
+
+  execute: function() {
+    return "Turning coffee into secure code...";
+  }
+};
